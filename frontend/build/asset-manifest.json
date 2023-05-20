@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.a29b658a.js",
+    "static/media/banner3.jpg": "/static/media/banner3.ec4ff9b7d0a1b67344fe.jpg",
+    "static/media/banner6.jpg": "/static/media/banner6.a21ab29a55071c586113.jpg",
+    "static/media/limitededition.png": "/static/media/limitededition.1da72400711b6a4205f5.png",
+    "static/media/headphone.png": "/static/media/headphone.d6e3e2441cae5687ef17.png",
+    "static/media/earbud5.png": "/static/media/earbud5.1dc5dde6100c0ab117aa.png",
+    "static/media/smartWatch.png": "/static/media/smartWatch.cd204588717830808934.png",
+    "static/media/wirelessSpeaker.png": "/static/media/wirelessSpeaker.beac3c39ecf241a4c8f4.png",
+    "static/media/earbud6.png": "/static/media/earbud6.8deccd1f13f6655eba54.png",
+    "static/media/earbud2.png": "/static/media/earbud2.26180e3acb4c05ff9e91.png",
+    "static/media/earbud3.png": "/static/media/earbud3.ba432a7c7244736ddac7.png",
+    "static/media/earbud4.png": "/static/media/earbud4.c78a217fa785b8a08b27.png",
+    "static/media/earphone.png": "/static/media/earphone.6749d38e95d96f129226.png",
+    "static/media/earbuds.png": "/static/media/earbuds.094eebee8aac7bbb27d1.png",
+    "static/media/basket.png": "/static/media/basket.2c1734b846a35a69347e.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.a29b658a.js.map": "/static/js/main.a29b658a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a29b658a.js"
+  ]
+}
